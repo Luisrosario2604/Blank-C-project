@@ -13,7 +13,7 @@ No package needed
 
 ## Compiling
 
-###### Go in the project directory
+###### Go to the project directory
 
 Clean (*.o files)
 ```
