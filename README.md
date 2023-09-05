@@ -3,7 +3,7 @@
 
 ## Description
 
-Description of the project
+Little help to start a C project
 
 ## Requirements
 
